@@ -1,6 +1,6 @@
 # Install environment with
-# conda env create -f skience25.yaml
-name: skience25
+# conda env create -f skience26.yaml
+name: skience26
 channels:
   - conda-forge
 dependencies:
