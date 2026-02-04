@@ -1,4 +1,4 @@
-# skience2025
+# skience2026
 
 Welcome!
 
@@ -8,7 +8,7 @@ https://www.skience.de/2026
 
 
 
-## Setup of Conda Environment for Skience24
+## Setup of Conda Environment for Skience26
 
 [Miniconda/Anaconda3](https://docs.conda.io/en/latest/miniconda.html) has to be installed for this to work!
 
