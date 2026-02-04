@@ -1,18 +1,18 @@
 # Install environment with
-# conda env create -f skience25.yaml
-name: skience25
+# conda env create -f skience26.yaml
+name: skience26
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.13
   - cartopy
   - folium
   - ipython
   - jupyter
   - msnoise=1.6
-  - sqlalchemy<2.0
+  - sqlalchemy<2
   - sqlalchemy-utils
-  - obspy=1.4
+  - obspy
   - pandas
   - pdbpp
   - pycwt
@@ -36,7 +36,6 @@ dependencies:
   - scikit-learn
   - spectrum
   - scipy
-  - h5py
   - seaborn
   - mplcursors
   - pip:
