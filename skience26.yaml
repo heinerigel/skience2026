@@ -5,6 +5,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.13
+  - setuptools<82
   - cartopy
   - folium
   - ipython
