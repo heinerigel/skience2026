@@ -39,7 +39,7 @@ https://www.skience.de/2026
 
     in the console, in a folder of your choice (change directory with "cd"), activate the environment and run:
    
-    (skience25) $ ` git clone https://github.com/heinerigel/skience2026.git `
+    (skience26) $ ` git clone https://github.com/heinerigel/skience2026.git `
 
 If you have issues with the setup, please share the error messages on Mattermost -> Channel "Installation - Software Issues" !
 
