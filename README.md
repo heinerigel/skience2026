@@ -34,8 +34,6 @@ https://www.skience.de/2026
    
    (skience26) $ ` obspy-runtests --report`
    
-   (skience26) $ ` msnoise utils test `
-   
 
 5) Clone the git repository
 
