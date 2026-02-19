@@ -4,10 +4,8 @@ name: skience26
 channels:
   - conda-forge
 dependencies:
-  - python=3.13
+  - python=3.12
   - setuptools<82
-  - cartopy
-  - folium
   - ipython
   - jupyter
   - msnoise=1.6
@@ -15,8 +13,6 @@ dependencies:
   - sqlalchemy-utils
   - obspy
   - pandas
-  - pdbpp
-  - pycwt
   - pytest
   - pytest-json-report
   - statsmodels
@@ -30,12 +26,10 @@ dependencies:
   - git
   - pip
   - pytz
-  - git
   - pygmt
   - ipympl
   - h5py
   - scikit-learn
-  - spectrum
   - scipy
   - seaborn
   - mplcursors
