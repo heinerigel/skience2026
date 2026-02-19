@@ -40,7 +40,10 @@ dependencies:
   - seaborn
   - mplcursors
   - pip:
-    - git+https://github.com/ROBelgium/MSNoise.git
+    - git+https://github.com/ROBelgium/MSNoise.git@pre-alec-version
     - disba
     - git+https://github.com/solldavid/TwistPy.git
+    - git+https://github.com/jwassermann/obspy_arraytools.git
     - xdas
+    - hvsrpy
+
