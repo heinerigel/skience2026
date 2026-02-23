@@ -1,0 +1,10 @@
+matplotlib==3.7.2
+numba==0.57.1
+numpy==1.24.3
+obspy==1.4.0
+pandas==2.0.3
+pyproj==3.6.1
+scikit_learn==1.3.0
+scipy==1.17.0
+SeisSrcInv==0.0.8
+SeisSrcInv.egg==info
